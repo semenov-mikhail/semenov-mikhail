@@ -6,7 +6,7 @@
 
 # Мой стек
 
-PostgreSQL, Python, Apache Spark, Tableau, KNIME, Google Data Studio, Flourish, Jupiter, Git
+PostgreSQL, Python, Apache Spark, Tableau, Google Data Studio, Git
 
 # Мои навыки
 - SQL (PostgreSQL) [Итоговая работа на курсе SQL и получение данных](https://github.com/semenov-mikhail/portfolio/blob/main/final_work_sql_msemenov.pdf) / [SQL запросы к работе](https://github.com/semenov-mikhail/portfolio/blob/main/diploma_work_MSemenov_sql-40.sql)
