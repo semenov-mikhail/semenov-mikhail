@@ -18,6 +18,7 @@ PostgreSQL, Python, Apache Spark, Tableau, Google Data Studio, Git
 - [Основы статистики](https://github.com/semenov-mikhail/portfolio/blob/main/stepik-certificate-76-edc5082_statistics_Msemenov.pdf)
 - [A/B-тестирование: практическое руководство](https://github.com/semenov-mikhail/portfolio/blob/main/cert_ab_tests_Semenov.pdf)
 - [SQL и получение данных](https://github.com/semenov-mikhail/portfolio/blob/main/sql_cert_msemenov.pdf)
+- [ML в e-commerce](https://github.com/semenov-mikhail/portfolio/blob/main/DWthon_ML_ecommerce_msemenov.pdf)
 - [Основы аналитики](https://github.com/semenov-mikhail/portfolio/blob/main/analytics_basics_cert_msemenov.pdf)
 - [Big Data](https://github.com/semenov-mikhail/portfolio/blob/main/bigdata_certificate_MSemenov.pdf)
 - [DataVizArt: Основы визуализации данных](https://github.com/semenov-mikhail/portfolio/blob/main/cert_Semenov_DataViz.pdf)
