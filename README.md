@@ -10,7 +10,7 @@ PostgreSQL, Python, Apache Spark, Tableau, Google Data Studio, Git
 
 # Мои навыки
 - Метрики, гипотезы, точки роста [Аналитический отчет по интернет-магазину](https://docs.google.com/document/d/18KIY0002QfkTYY9ckSIRzBlKE4k-Mo1sVZqMxs8MrYE/edit?usp=sharing) / [Ноутбук с анализом данных для отчета](https://colab.research.google.com/drive/109XE7lvq6b8uA0Okj2h9j0Wpl4vuvXPk?usp=sharing)
-- SQL (PostgreSQL) [Итоговая работа на курсе SQL и получение данных](https://github.com/semenov-mikhail/portfolio/blob/main/final_work_sql_msemenov.pdf) / [SQL запросы к работе](https://github.com/semenov-mikhail/portfolio/blob/main/diploma_work_MSemenov_sql-40.sql)
+- SQL (PostgreSQL) [Развернутый анализ БД бронирования авиабилетов](https://github.com/semenov-mikhail/portfolio/blob/main/final_work_sql_msemenov.pdf) / [SQL запросы для получения данных, согласнго заданию](https://github.com/semenov-mikhail/portfolio/blob/main/diploma_work_MSemenov_sql-40.sql)
 - Big Data Итоговая работа [Часть на Python + Spark](https://colab.research.google.com/drive/1rMMrt4pzHt-tb9wUcGaxZxjPpJqtjQcY?usp=sharing) / [Теоретическая часть + Дата проект CRISP-DM](https://docs.google.com/document/d/1RmbIFfFbwch-nVOV_Ao9S-L7Az1XqvwKzea0D1dbX8E/edit?usp=sharing)
 - Основы аналитики [Итоговая работа на Python + SQL](https://colab.research.google.com/drive/1lVMHUZ8SneM1RYHKLzcnlkBVy2BsKF4N?usp=sharing)
 
